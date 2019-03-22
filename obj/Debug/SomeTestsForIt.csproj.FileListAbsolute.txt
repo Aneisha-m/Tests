@@ -1,0 +1,16 @@
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTestsForIt\bin\Debug\SomeTestsForIt.dll
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTestsForIt\bin\Debug\SomeTestsForIt.pdb
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTestsForIt\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTestsForIt\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTestsForIt\bin\Debug\SomeTests.dll
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTestsForIt\bin\Debug\SomeTests.pdb
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTestsForIt\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTestsForIt\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTestsForIt\obj\Debug\SomeTestsForIt.csprojAssemblyReference.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTestsForIt\obj\Debug\SomeTestsForIt.csproj.CoreCompileInputs.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTestsForIt\obj\Debug\SomeTestsForIt.csproj.CopyComplete
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTestsForIt\obj\Debug\SomeTestsForIt.dll
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTestsForIt\obj\Debug\SomeTestsForIt.pdb
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTestsForIt\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTestsForIt\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTestsForIt\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll

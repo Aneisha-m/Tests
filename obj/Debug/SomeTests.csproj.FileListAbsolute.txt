@@ -1,0 +1,6 @@
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTests\bin\Debug\SomeTests.dll
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTests\bin\Debug\SomeTests.pdb
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTests\obj\Debug\SomeTests.csprojAssemblyReference.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTests\obj\Debug\SomeTests.csproj.CoreCompileInputs.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTests\obj\Debug\SomeTests.dll
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Tests\Starter-Code\SomeTests\obj\Debug\SomeTests.pdb
